@@ -11,7 +11,7 @@
   "dependencies": {
     "discord.js": "^12.3.1",
     "discordenvo": "^1.1.9",
-    "enmap": "^5.1.2",
+    "enmap": "^5.8.6",
     "lodash": "^4.17.20",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
